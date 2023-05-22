@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/network/layer.cpp.o CMakeFiles/main.dir/network/network.cpp.o CMakeFiles/main.dir/network/neuron.cpp.o -o main 

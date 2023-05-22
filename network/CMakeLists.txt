@@ -1,0 +1,1 @@
+target_sources(main PRIVATE layer.cpp layer.h network.cpp network.h neuron.cpp neuron.h)
